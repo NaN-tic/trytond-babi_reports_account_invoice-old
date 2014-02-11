@@ -442,7 +442,7 @@
         <field name="model" search="[('model','=','account.invoice')]"/>
         <field name="filter" ref="open_paid_customer_invoices"/>
         <field name="name">Year - Month - Day</field>
-        <field name="timeout" eval="60"/>
+        <field name="timeout" eval="1200"/>
     </record>
     <record model="babi.report-res.group"
             id="invoice_year_month_date_group_babi_">
@@ -480,7 +480,7 @@
         <field name="model" search="[('model','=','account.invoice')]"/>
         <field name="filter" ref="open_paid_customer_invoices"/>
         <field name="name">Month - Year</field>
-        <field name="timeout" eval="60"/>
+        <field name="timeout" eval="1200"/>
     </record>
     <record model="babi.report-res.group"
             id="invoice_month_year_group_babi_">
@@ -512,7 +512,7 @@
         <field name="model" search="[('model','=','account.invoice')]"/>
         <field name="filter" ref="open_paid_customer_invoices"/>
         <field name="name">Year - Country - State - City</field>
-        <field name="timeout" eval="60"/>
+        <field name="timeout" eval="1200"/>
     </record>
     <record model="babi.report-res.group"
             id="invoice_year_country_state_city_group_babi_">
@@ -556,7 +556,7 @@
         <field name="model" search="[('model','=','account.invoice')]"/>
         <field name="filter" ref="open_paid_customer_invoices"/>
         <field name="name">Year - Payment Type</field>
-        <field name="timeout" eval="60"/>
+        <field name="timeout" eval="1200"/>
     </record>
     <record model="babi.report-res.group"
             id="invoice_year_paymenttype_group_babi_">
@@ -588,7 +588,7 @@
         <field name="model" search="[('model','=','account.invoice')]"/>
         <field name="filter" ref="open_paid_customer_invoices"/>
         <field name="name">Partner - Year - Month</field>
-        <field name="timeout" eval="60"/>
+        <field name="timeout" eval="1200"/>
     </record>
     <record model="babi.report-res.group"
             id="invoice_partner_year_month_group_babi_">
@@ -626,7 +626,7 @@
         <field name="model" search="[('model','=','account.invoice')]"/>
         <field name="filter" ref="open_paid_customer_invoices"/>
         <field name="name">Year - Partner - Month</field>
-        <field name="timeout" eval="60"/>
+        <field name="timeout" eval="1200"/>
     </record>
     <record model="babi.report-res.group"
             id="invoice_year_partner_month_group_babi_">
@@ -664,7 +664,7 @@
         <field name="model" search="[('model','=','account.invoice')]"/>
         <field name="filter" ref="open_supplier_invoices"/>
         <field name="name">Unpaid Supplier - Year-Month - Invoice</field>
-        <field name="timeout" eval="60"/>
+        <field name="timeout" eval="1200"/>
     </record>
     <record model="babi.report-res.group"
             id="invoice_supplier_year_month_group_babi_">
@@ -704,7 +704,7 @@
         <field name="model" search="[('model','=','account.invoice.line')]"/>
         <field name="filter" ref="open_paid_customer_invoice_lines"/>
         <field name="name">Year - Product - Month</field>
-        <field name="timeout" eval="60"/>
+        <field name="timeout" eval="1200"/>
     </record>
     <record model="babi.report-res.group"
             id="invoice_line_year_product_month_group_babi_">
@@ -750,7 +750,7 @@
         <field name="model" search="[('model','=','account.invoice.line')]"/>
         <field name="filter" ref="open_paid_customer_invoice_lines"/>
         <field name="name">Year - Product - Party - Month</field>
-        <field name="timeout" eval="60"/>
+        <field name="timeout" eval="1200"/>
     </record>
     <record model="babi.report-res.group"
             id="invoice_line_year_month_product_partner_month_group_babi_">
@@ -802,7 +802,7 @@
         <field name="model" search="[('model','=','account.invoice.line')]"/>
         <field name="filter" ref="open_paid_customer_invoice_lines"/>
         <field name="name">Party - Product - Year - Month</field>
-        <field name="timeout" eval="60"/>
+        <field name="timeout" eval="1200"/>
     </record>
     <record model="babi.report-res.group"
             id="invoice_line_partner_product_year_month_group_babi_">
@@ -854,7 +854,7 @@
         <field name="model" search="[('model','=','account.invoice.line')]"/>
         <field name="filter" ref="open_paid_customer_invoice_lines"/>
         <field name="name">Product - Year - Month</field>
-        <field name="timeout" eval="60"/>
+        <field name="timeout" eval="1200"/>
     </record>
     <record model="babi.report-res.group"
             id="invoice_line_product_year_month_group_babi_">
@@ -900,7 +900,7 @@
         <field name="model" search="[('model','=','account.invoice.line')]"/>
         <field name="filter" ref="open_paid_customer_invoice_lines"/>
         <field name="name">Year - Product Category - Product</field>
-        <field name="timeout" eval="60"/>
+        <field name="timeout" eval="1200"/>
     </record>
     <record model="babi.report-res.group"
             id="invoice_line_year_productcategory_product_group_babi_">
@@ -946,7 +946,7 @@
         <field name="model" search="[('model','=','account.invoice.line')]"/>
         <field name="filter" ref="open_paid_customer_invoice_lines"/>
         <field name="name">Year - Sale Account - Month</field>
-        <field name="timeout" eval="60"/>
+        <field name="timeout" eval="1200"/>
     </record>
     <record model="babi.report-res.group"
             id="invoice_line_year_saleaccount_month_group_babi_">
@@ -984,7 +984,7 @@
         <field name="model" search="[('model','=','account.invoice.line')]"/>
         <field name="filter" ref="open_paid_customer_invoice_lines"/>
         <field name="name">Year - Product - Country - State - City</field>
-        <field name="timeout" eval="60"/>
+        <field name="timeout" eval="1200"/>
     </record>
     <record model="babi.report-res.group"
             id="invoice_line_year_product_country_state_city_group_babi_">
