@@ -1,0 +1,630 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt ""
+"model:babi.dimension,name:invoice_line_partner_product_year_month__month"
+msgid "Month"
+msgstr "Mes"
+
+msgctxt ""
+"model:babi.dimension,name:invoice_line_partner_product_year_month__partner"
+msgid "Party"
+msgstr "Terceros"
+
+msgctxt ""
+"model:babi.dimension,name:invoice_line_partner_product_year_month__product"
+msgid "Product"
+msgstr "Productos"
+
+msgctxt ""
+"model:babi.dimension,name:invoice_line_partner_product_year_month__year"
+msgid "Year"
+msgstr "Año"
+
+msgctxt "model:babi.dimension,name:invoice_line_product_year_month__month"
+msgid "Month"
+msgstr "Mes"
+
+msgctxt "model:babi.dimension,name:invoice_line_product_year_month__product"
+msgid "Product"
+msgstr "Productos"
+
+msgctxt "model:babi.dimension,name:invoice_line_product_year_month__year"
+msgid "Year"
+msgstr "Año"
+
+msgctxt ""
+"model:babi.dimension,name:invoice_line_year_product_country_state_city__city"
+msgid "City"
+msgstr "Ciudad"
+
+msgctxt ""
+"model:babi.dimension,name:invoice_line_year_product_country_state_city__country"
+msgid "Country"
+msgstr "País"
+
+msgctxt ""
+"model:babi.dimension,name:invoice_line_year_product_country_state_city__product"
+msgid "Product"
+msgstr "Productos"
+
+msgctxt ""
+"model:babi.dimension,name:invoice_line_year_product_country_state_city__state"
+msgid "State/Region"
+msgstr "Estado/Región"
+
+msgctxt ""
+"model:babi.dimension,name:invoice_line_year_product_country_state_city__year"
+msgid "Year"
+msgstr "Año"
+
+msgctxt "model:babi.dimension,name:invoice_line_year_product_month__month"
+msgid "Month"
+msgstr "Mes"
+
+msgctxt "model:babi.dimension,name:invoice_line_year_product_month__product"
+msgid "Product"
+msgstr "Productos"
+
+msgctxt "model:babi.dimension,name:invoice_line_year_product_month__year"
+msgid "Year"
+msgstr "Año"
+
+msgctxt ""
+"model:babi.dimension,name:invoice_line_year_product_partner_month__month"
+msgid "Month"
+msgstr "Mes"
+
+msgctxt ""
+"model:babi.dimension,name:invoice_line_year_product_partner_month__partner"
+msgid "Party"
+msgstr "Terceros"
+
+msgctxt ""
+"model:babi.dimension,name:invoice_line_year_product_partner_month__product"
+msgid "Product"
+msgstr "Productos"
+
+msgctxt ""
+"model:babi.dimension,name:invoice_line_year_product_partner_month__year"
+msgid "Year"
+msgstr "Año"
+
+msgctxt ""
+"model:babi.dimension,name:invoice_line_year_productcategory_product__category"
+msgid "Product Category"
+msgstr "Categoría de producto"
+
+msgctxt ""
+"model:babi.dimension,name:invoice_line_year_productcategory_product__product"
+msgid "Product"
+msgstr "Productos"
+
+msgctxt ""
+"model:babi.dimension,name:invoice_line_year_productcategory_product__year"
+msgid "Year"
+msgstr "Año"
+
+msgctxt ""
+"model:babi.dimension,name:invoice_line_year_saleaccount_month__account_name"
+msgid "Sale Account"
+msgstr "Cuenta ventas"
+
+msgctxt "model:babi.dimension,name:invoice_line_year_saleaccount_month__month"
+msgid "Month"
+msgstr "Mes"
+
+msgctxt "model:babi.dimension,name:invoice_line_year_saleaccount_month__year"
+msgid "Year"
+msgstr "Año"
+
+msgctxt "model:babi.dimension,name:invoice_month_year__month"
+msgid "Month"
+msgstr "Mes"
+
+msgctxt "model:babi.dimension,name:invoice_month_year__year"
+msgid "Year-Month"
+msgstr "Año-Mes"
+
+msgctxt "model:babi.dimension,name:invoice_month_year_date__date"
+msgid "Day"
+msgstr "Día"
+
+msgctxt "model:babi.dimension,name:invoice_month_year_date__month"
+msgid "Month"
+msgstr "Mes"
+
+msgctxt "model:babi.dimension,name:invoice_partner_year_month__month"
+msgid "Month"
+msgstr "Mes"
+
+msgctxt "model:babi.dimension,name:invoice_partner_year_month__partner"
+msgid "Party"
+msgstr "Terceros"
+
+msgctxt "model:babi.dimension,name:invoice_partner_year_month__year"
+msgid "Year"
+msgstr "Año"
+
+msgctxt "model:babi.dimension,name:invoice_supplier_year_month__number"
+msgid "Invoice"
+msgstr "Factura"
+
+msgctxt "model:babi.dimension,name:invoice_supplier_year_month__partner"
+msgid "Party"
+msgstr "Terceros"
+
+msgctxt "model:babi.dimension,name:invoice_supplier_year_month__year_month"
+msgid "Year-Month"
+msgstr "Año-Mes"
+
+msgctxt "model:babi.dimension,name:invoice_year_country_state_city__city"
+msgid "City"
+msgstr "Ciudad"
+
+msgctxt "model:babi.dimension,name:invoice_year_country_state_city__country"
+msgid "Country"
+msgstr "País"
+
+msgctxt "model:babi.dimension,name:invoice_year_country_state_city__state"
+msgid "State/Region"
+msgstr "Estado/Región"
+
+msgctxt "model:babi.dimension,name:invoice_year_country_state_city__year"
+msgid "Year"
+msgstr "Año"
+
+msgctxt "model:babi.dimension,name:invoice_year_partner_month__month"
+msgid "Month"
+msgstr "Mes"
+
+msgctxt "model:babi.dimension,name:invoice_year_partner_month__partner"
+msgid "Partner"
+msgstr "Tercero"
+
+msgctxt "model:babi.dimension,name:invoice_year_partner_month__year"
+msgid "Year"
+msgstr "Año"
+
+msgctxt "model:babi.dimension,name:invoice_year_paymenttype__payment_type"
+msgid "Payment Type"
+msgstr "Tipo de pago"
+
+msgctxt "model:babi.dimension,name:invoice_year_paymenttype__year"
+msgid "Year"
+msgstr "Año"
+
+msgctxt "model:babi.dimension.column,name:invoice_month_year_date__year"
+msgid "Year"
+msgstr "Año"
+
+msgctxt "model:babi.expression,name:account_invoice"
+msgid "ID"
+msgstr "Identificador"
+
+msgctxt "model:babi.expression,name:account_invoice_account_code"
+msgid "Account Code"
+msgstr "Código uenta"
+
+msgctxt "model:babi.expression,name:account_invoice_account_name"
+msgid "Account Name"
+msgstr "Nombre cuenta"
+
+msgctxt "model:babi.expression,name:account_invoice_city"
+msgid "City"
+msgstr "Ciudad"
+
+msgctxt "model:babi.expression,name:account_invoice_country"
+msgid "Country"
+msgstr "País"
+
+msgctxt "model:babi.expression,name:account_invoice_currency_name"
+msgid "Currency"
+msgstr "Moneda"
+
+msgctxt "model:babi.expression,name:account_invoice_date"
+msgid "Date"
+msgstr "Fecha"
+
+msgctxt "model:babi.expression,name:account_invoice_day"
+msgid "Day"
+msgstr "Día"
+
+msgctxt "model:babi.expression,name:account_invoice_line"
+msgid "ID"
+msgstr "Identificador"
+
+msgctxt "model:babi.expression,name:account_invoice_line_account_code"
+msgid "Invoice Account Code"
+msgstr "Código cuenta factura"
+
+msgctxt "model:babi.expression,name:account_invoice_line_account_name"
+msgid "Invoice Account Name"
+msgstr "Nombre cuenta factura"
+
+msgctxt "model:babi.expression,name:account_invoice_line_available_quantity"
+msgid "Product Available Quantity"
+msgstr "Cantidad disponible producto"
+
+msgctxt "model:babi.expression,name:account_invoice_line_city"
+msgid "City"
+msgstr "Ciudad"
+
+msgctxt "model:babi.expression,name:account_invoice_line_country"
+msgid "Country"
+msgstr "País"
+
+msgctxt "model:babi.expression,name:account_invoice_line_currency"
+msgid "Currency"
+msgstr "Moneda"
+
+msgctxt "model:babi.expression,name:account_invoice_line_date"
+msgid "Date"
+msgstr "Fecha"
+
+msgctxt "model:babi.expression,name:account_invoice_line_day"
+msgid "Day"
+msgstr "Día"
+
+msgctxt "model:babi.expression,name:account_invoice_line_discount"
+msgid "Discount"
+msgstr "Descuento"
+
+msgctxt "model:babi.expression,name:account_invoice_line_line_account_code"
+msgid "Account Code"
+msgstr "Código uenta"
+
+msgctxt "model:babi.expression,name:account_invoice_line_line_account_name"
+msgid "Account Name"
+msgstr "Nombre cuenta"
+
+msgctxt "model:babi.expression,name:account_invoice_line_month"
+msgid "Month"
+msgstr "Mes"
+
+msgctxt "model:babi.expression,name:account_invoice_line_partner_name"
+msgid "Party Name"
+msgstr "Nombre tercero"
+
+msgctxt "model:babi.expression,name:account_invoice_line_payment_term"
+msgid "Payment Term"
+msgstr "Plazo de pago"
+
+msgctxt "model:babi.expression,name:account_invoice_line_payment_type"
+msgid "Payment Type"
+msgstr "Tipo de pago"
+
+msgctxt "model:babi.expression,name:account_invoice_line_period_name"
+msgid "Period"
+msgstr "Período"
+
+msgctxt "model:babi.expression,name:account_invoice_line_price_unit"
+msgid "Unit Price"
+msgstr "Precio unidad"
+
+msgctxt "model:babi.expression,name:account_invoice_line_product"
+msgid "Product"
+msgstr "Productos"
+
+msgctxt "model:babi.expression,name:account_invoice_line_product_category"
+msgid "Product Category"
+msgstr "Categoría de producto"
+
+msgctxt "model:babi.expression,name:account_invoice_line_product_code"
+msgid "Product Code"
+msgstr "Código producto"
+
+msgctxt "model:babi.expression,name:account_invoice_line_product_name"
+msgid "Product Name"
+msgstr "Nombre producto"
+
+msgctxt "model:babi.expression,name:account_invoice_line_product_type"
+msgid "Product Type"
+msgstr "Tipo producto"
+
+msgctxt "model:babi.expression,name:account_invoice_line_quantity"
+msgid "Quantity (no UoM conversion)"
+msgstr "Cantidad (sin convertir UdM)"
+
+msgctxt "model:babi.expression,name:account_invoice_line_region"
+msgid "State/Region"
+msgstr "Estado/Región"
+
+msgctxt "model:babi.expression,name:account_invoice_line_state"
+msgid "Invoice State"
+msgstr "Estado factura"
+
+msgctxt "model:babi.expression,name:account_invoice_line_subtotal"
+msgid "Amount"
+msgstr "Importe"
+
+msgctxt "model:babi.expression,name:account_invoice_line_tax_code"
+msgid "Tax Codes"
+msgstr "Códigos de impuesto"
+
+msgctxt "model:babi.expression,name:account_invoice_line_tax_name"
+msgid "Tax Names"
+msgstr "Nombre impuestos"
+
+msgctxt "model:babi.expression,name:account_invoice_line_total_amount"
+msgid "Invoice Total Amount"
+msgstr "Importe total factura"
+
+msgctxt "model:babi.expression,name:account_invoice_line_untaxed_amount"
+msgid "Invoice Untaxed Amount"
+msgstr "Base imponible factura"
+
+msgctxt "model:babi.expression,name:account_invoice_line_uos"
+msgid "UoM"
+msgstr "UdM"
+
+msgctxt "model:babi.expression,name:account_invoice_line_virtual_quantity"
+msgid "Product Forecast Quantity"
+msgstr "Cantidad estimada producto"
+
+msgctxt "model:babi.expression,name:account_invoice_line_year"
+msgid "Year"
+msgstr "Año"
+
+msgctxt "model:babi.expression,name:account_invoice_line_year_month"
+msgid "Year-Month"
+msgstr "Año-Mes"
+
+msgctxt "model:babi.expression,name:account_invoice_line_zip"
+msgid "Zip"
+msgstr "Código postal"
+
+msgctxt "model:babi.expression,name:account_invoice_month"
+msgid "Month"
+msgstr "Mes"
+
+msgctxt "model:babi.expression,name:account_invoice_number"
+msgid "Number"
+msgstr "Número"
+
+msgctxt "model:babi.expression,name:account_invoice_partner_name"
+msgid "Party Name"
+msgstr "Nombre tercero"
+
+msgctxt "model:babi.expression,name:account_invoice_payment_term_name"
+msgid "Payment Term"
+msgstr "Plazo de pago"
+
+msgctxt "model:babi.expression,name:account_invoice_payment_type"
+msgid "Payment Type"
+msgstr "Tipo de pago"
+
+msgctxt "model:babi.expression,name:account_invoice_period"
+msgid "Period"
+msgstr "Período"
+
+msgctxt "model:babi.expression,name:account_invoice_region"
+msgid "State/Region"
+msgstr "Estado/Región"
+
+msgctxt "model:babi.expression,name:account_invoice_self"
+msgid "Invoice"
+msgstr "Factura"
+
+msgctxt "model:babi.expression,name:account_invoice_state"
+msgid "State"
+msgstr "Estado"
+
+msgctxt "model:babi.expression,name:account_invoice_total_amount"
+msgid "Total Amount"
+msgstr "Importe total"
+
+msgctxt "model:babi.expression,name:account_invoice_untaxed_amount"
+msgid "Untaxed Amount"
+msgstr "Base imponible"
+
+msgctxt "model:babi.expression,name:account_invoice_week"
+msgid "Week"
+msgstr "Semana"
+
+msgctxt "model:babi.expression,name:account_invoice_year"
+msgid "Year"
+msgstr "Año"
+
+msgctxt "model:babi.expression,name:account_invoice_year_month"
+msgid "Year-Month"
+msgstr "Año-Mes"
+
+msgctxt "model:babi.expression,name:account_invoice_zip"
+msgid "Zip"
+msgstr "Código postal"
+
+msgctxt "model:babi.filter,name:open_customer_invoice_lines"
+msgid "Posted Customer Invoices/credit_notes"
+msgstr "Facturas/Abonos de cliente confirmadas"
+
+msgctxt "model:babi.filter,name:open_customer_invoices"
+msgid "Posted Customer Invoices/Credit Notes"
+msgstr "Facturas/Abonos de cliente confirmadas"
+
+msgctxt "model:babi.filter,name:open_paid_customer_invoice_lines"
+msgid "Posted/Paid Customer Invoices/Credit Notes"
+msgstr "Facturas/Abonos de cliente confirmadas/pagadas"
+
+msgctxt "model:babi.filter,name:open_paid_customer_invoices"
+msgid "Posted/Paid Customer Invoices/Credit Notes"
+msgstr "Facturas/Abonos de cliente confirmadas/pagadas"
+
+msgctxt "model:babi.filter,name:open_paid_supplier_invoice_lines"
+msgid "Posted/Paid Supplier Invoices/Credit Notes"
+msgstr "Facturas/Abonos de proveedor confirmadas/pagadas"
+
+msgctxt "model:babi.filter,name:open_paid_supplier_invoices"
+msgid "Posted/Paid Supplier Invoices/Credit Notes"
+msgstr "Facturas/Abonos de proveedor confirmadas/pagadas"
+
+msgctxt "model:babi.filter,name:open_supplier_invoice_lines"
+msgid "Posted Supplier Invoices/credit_notes"
+msgstr "Facturas/Abonos de proveedor confirmadas"
+
+msgctxt "model:babi.filter,name:open_supplier_invoices"
+msgid "Posted Supplier Invoices/Credit Notes"
+msgstr "Facturas/Abonos de proveedor confirmadas"
+
+msgctxt "model:babi.filter,name:paid_customer_invoice_lines"
+msgid "Paid Customer Invoices/credit_notes"
+msgstr "Facturas/Abonos de cliente pagadas"
+
+msgctxt "model:babi.filter,name:paid_customer_invoices"
+msgid "Paid Customer Invoices/Credit Notes"
+msgstr "Facturas/Abonos de cliente pagadas"
+
+msgctxt "model:babi.filter,name:paid_supplier_invoice_lines"
+msgid "Paid Supplier Invoices/credit_notes"
+msgstr "Facturas/Abonos de proveedor pagadas"
+
+msgctxt "model:babi.filter,name:paid_supplier_invoices"
+msgid "Paid Supplier Invoices/Credit Notes"
+msgstr "Facturas/Abonos de proveedor pagadas"
+
+msgctxt ""
+"model:babi.measure,name:invoice_line_partner_product_year_month__quantity"
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgctxt ""
+"model:babi.measure,name:invoice_line_partner_product_year_month__subtotal"
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgctxt "model:babi.measure,name:invoice_line_product_year_month__quantity"
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgctxt "model:babi.measure,name:invoice_line_product_year_month__subtotal"
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgctxt ""
+"model:babi.measure,name:invoice_line_year_product_country_state_city__quantity"
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgctxt ""
+"model:babi.measure,name:invoice_line_year_product_country_state_city__subtotal"
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgctxt "model:babi.measure,name:invoice_line_year_product_month__quantity"
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgctxt "model:babi.measure,name:invoice_line_year_product_month__subtotal"
+msgid "Amount"
+msgstr "Importe"
+
+msgctxt ""
+"model:babi.measure,name:invoice_line_year_product_partner_month__quantity"
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgctxt ""
+"model:babi.measure,name:invoice_line_year_product_partner_month__subtotal"
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgctxt ""
+"model:babi.measure,name:invoice_line_year_productcategory_product__quantity"
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgctxt ""
+"model:babi.measure,name:invoice_line_year_productcategory_product__subtotal"
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgctxt ""
+"model:babi.measure,name:invoice_line_year_saleaccount_month__subtotal"
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgctxt "model:babi.measure,name:invoice_month_year__untaxed_amount"
+msgid "Untaxed Amount"
+msgstr "Base imponible"
+
+msgctxt "model:babi.measure,name:invoice_month_year_date__untaxed_amount"
+msgid "Untaxed Amount"
+msgstr "Base imponible"
+
+msgctxt "model:babi.measure,name:invoice_partner_year_month__untaxed_amount"
+msgid "Untaxed Amount"
+msgstr "Base imponible"
+
+msgctxt "model:babi.measure,name:invoice_supplier_year_month__untaxed_amount"
+msgid "Untaxed Amount"
+msgstr "Base imponible"
+
+msgctxt ""
+"model:babi.measure,name:invoice_year_country_state_city__untaxed_amount"
+msgid "Untaxed Amount"
+msgstr "Base imponible"
+
+msgctxt "model:babi.measure,name:invoice_year_partner_month__untaxed_amount"
+msgid "Untaxed Amount"
+msgstr "Base imponible"
+
+msgctxt "model:babi.measure,name:invoice_year_paymenttype__untaxed_amount"
+msgid "Untaxed Amount"
+msgstr "Base imponible"
+
+msgctxt "model:babi.report,name:invoice_line_partner_product_year_month"
+msgid "Party - Product - Year - Month"
+msgstr "Tercero - Producto - Año - Mes"
+
+msgctxt "model:babi.report,name:invoice_line_product_year_month"
+msgid "Product - Year - Month"
+msgstr "Producto - Año - Mes"
+
+msgctxt "model:babi.report,name:invoice_line_year_product_country_state_city"
+msgid "Year - Product - Country - State - City"
+msgstr "Año - Producto - Pais - Estado - Ciudad"
+
+msgctxt "model:babi.report,name:invoice_line_year_product_month"
+msgid "Year - Product - Month"
+msgstr "Año - Producto - Mes"
+
+msgctxt "model:babi.report,name:invoice_line_year_product_partner_month"
+msgid "Year - Product - Party - Month"
+msgstr "Año - Producto - Tercero - Mes"
+
+msgctxt "model:babi.report,name:invoice_line_year_productcategory_product"
+msgid "Year - Product Category - Product"
+msgstr "Año - Categoría producto - Producto"
+
+msgctxt "model:babi.report,name:invoice_line_year_saleaccount_month"
+msgid "Year - Sale Account - Month"
+msgstr "Año - Cuenta venta - Mes"
+
+msgctxt "model:babi.report,name:invoice_month_year"
+msgid "Month - Year"
+msgstr "Mes - Año"
+
+msgctxt "model:babi.report,name:invoice_partner_year_month"
+msgid "Partner - Year - Month"
+msgstr "Tercero - Año - Mes"
+
+msgctxt "model:babi.report,name:invoice_supplier_year_month"
+msgid "Unpaid Supplier - Year-Month - Invoice"
+msgstr "Sin pagar Proveedor - Año-Mes- Factura"
+
+msgctxt "model:babi.report,name:invoice_year_country_state_city"
+msgid "Year - Country - State - City"
+msgstr "Año - Pais - Estado - Ciudad"
+
+msgctxt "model:babi.report,name:invoice_year_month_date"
+msgid "Year - Month - Day"
+msgstr "Año - Mes - Dia"
+
+msgctxt "model:babi.report,name:invoice_year_partner_month"
+msgid "Year - Partner - Month"
+msgstr "Año - Tercero - Mes"
+
+msgctxt "model:babi.report,name:invoice_year_paymenttype"
+msgid "Year - Payment Type"
+msgstr "Año - Tipo de pago"
