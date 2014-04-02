@@ -353,7 +353,7 @@ msgstr "Import total factura"
 
 msgctxt "model:babi.expression,name:account_invoice_line_untaxed_amount"
 msgid "Invoice Untaxed Amount"
-msgstr "Base imponible factura"
+msgstr "Base imposable factura"
 
 msgctxt "model:babi.expression,name:account_invoice_line_uos"
 msgid "UoM"
@@ -417,7 +417,7 @@ msgstr "Import total"
 
 msgctxt "model:babi.expression,name:account_invoice_untaxed_amount"
 msgid "Untaxed Amount"
-msgstr "Base imponible"
+msgstr "Base imposable"
 
 msgctxt "model:babi.expression,name:account_invoice_week"
 msgid "Week"
@@ -546,32 +546,32 @@ msgstr "Subtotal"
 
 msgctxt "model:babi.measure,name:invoice_month_year__untaxed_amount"
 msgid "Untaxed Amount"
-msgstr "Base imponible"
+msgstr "Base imposable"
 
 msgctxt "model:babi.measure,name:invoice_month_year_date__untaxed_amount"
 msgid "Untaxed Amount"
-msgstr "Base imponible"
+msgstr "Base imposable"
 
 msgctxt "model:babi.measure,name:invoice_partner_year_month__untaxed_amount"
 msgid "Untaxed Amount"
-msgstr "Base imponible"
+msgstr "Base imposable"
 
 msgctxt "model:babi.measure,name:invoice_supplier_year_month__untaxed_amount"
 msgid "Untaxed Amount"
-msgstr "Base imponible"
+msgstr "Base imposable"
 
 msgctxt ""
 "model:babi.measure,name:invoice_year_country_state_city__untaxed_amount"
 msgid "Untaxed Amount"
-msgstr "Base imponible"
+msgstr "Base imposable"
 
 msgctxt "model:babi.measure,name:invoice_year_partner_month__untaxed_amount"
 msgid "Untaxed Amount"
-msgstr "Base imponible"
+msgstr "Base imposable"
 
 msgctxt "model:babi.measure,name:invoice_year_paymenttype__untaxed_amount"
 msgid "Untaxed Amount"
-msgstr "Base imponible"
+msgstr "Base imposable"
 
 msgctxt "model:babi.report,name:invoice_line_partner_product_year_month"
 msgid "Party - Product - Year - Month"
