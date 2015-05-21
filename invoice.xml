@@ -353,10 +353,11 @@
             <field name="name">Product Name</field>
         </record>
         <record model="babi.expression" id="account_invoice_line_product_category">
-            <field name="ttype">char</field>
+            <field name="ttype">many2one</field>
             <field name="model" search="[('model','=','account.invoice.line')]"/>
-            <field name="expression">o.product and o.product.category and o.product.category.rec_name</field>
+            <field name="expression">o.product and o.product.category and o.product.category.id</field>
             <field name="name">Product Category</field>
+            <field name="related_model" search="[('model','=','product.category')]"/>
         </record>
         <record model="babi.expression" id="account_invoice_line_quantity">
             <field name="ttype">float</field>
